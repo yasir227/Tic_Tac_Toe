@@ -1,6 +1,7 @@
 # Tic Tac Toe
 
-A simple app that allows the user to play tic tac toe against the computer where the computer auto-generates possible movies in order to win against the user.
+Tic-tac-toe is played on a three-by-three grid by two players, who alternately place the marks X and O in one of the nine spaces in the grid.
+
 
 
 ## Table of Contents
