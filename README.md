@@ -23,9 +23,6 @@ This app was created to learn the basics of AI and how to create a simple AI tha
     - tkinter
 
 
-## Setup
-Make sure to git clone this repository. After cloning, make sure the latest version of Python and all mentioned packages are installed and the project is ready for use!
-
 
 ## Repository Information
 The main.py file contains the code for the GUI and the functions that allow the user to play against the computer. 
